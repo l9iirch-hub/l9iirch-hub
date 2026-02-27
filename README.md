@@ -23,5 +23,10 @@ Hi there, I'm **Houssam Elarsaoui**, a Full Stack Developer who specializes in *
 
 ---
 [![](https://visitcount.itsvg.in/api?id=l9iirch-hub&icon=4&color=1)](https://visitcount.itsvg.in)
+###
+
+<img src="https://raw.githubusercontent.com/l9iirch-hub/l9iirch-hub/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
