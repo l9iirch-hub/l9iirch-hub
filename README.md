@@ -20,7 +20,7 @@ Hi there, I'm **Houssam Elarsaoui**, a Full Stack Developer who specializes in *
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=l9iirch-hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) 
-(./img/Mr_Rbot.gif)
+![](./img/Mr_Rbot.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=l9iirch-hub&icon=4&color=1)](https://visitcount.itsvg.in)
