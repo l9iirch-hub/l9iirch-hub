@@ -8,7 +8,7 @@ Hi there, I'm **Houssam Elarsaoui**, a Full Stack Developer who specializes in *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Houssam%20Elarsaoui-blue)](https://www.linkedin.com/in/houssam-elarsaoui-b159953a7?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 [![Instagram](https://img.shields.io/badge/Instagram-hossam_xx7-purple)](https://www.instagram.com/hossam_xx7)  
 <p align="right" margin-top=-20>
-  <img src="https://github.com/l9iirch-hub/l9iirch-hub/blob/main/.github/img/Laboratory%20%E7%A0%94%E7%A9%B6%E5%AE%A4.gif" width="150">
+  <img src="https://github.com/l9iirch-hub/l9iirch-hub/blob/main/.github/img/Laboratory%20%E7%A0%94%E7%A9%B6%E5%AE%A4.gif" width="150" vspace="-20">
 </p>
 
 
@@ -25,7 +25,7 @@ Hi there, I'm **Houssam Elarsaoui**, a Full Stack Developer who specializes in *
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=l9iirch-hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/l9iirch-hub/l9iirch-hub/refs/heads/main/.github/img/Mr_%20Robot.gif" width="150">
+  <img src="https://raw.githubusercontent.com/l9iirch-hub/l9iirch-hub/refs/heads/main/.github/img/Mr_%20Robot.gif" width="150" vspace="-20">
 </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=l9iirch-hub&icon=4&color=1)](https://visitcount.itsvg.in)
