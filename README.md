@@ -24,11 +24,11 @@ Hi there, I'm **Houssam Elarsaoui**, a Full Stack Developer who specializes in *
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=l9iirch-hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) 
-<p align="right">
+<p align="left">
   <img src="https://raw.githubusercontent.com/l9iirch-hub/l9iirch-hub/refs/heads/main/.github/img/download.gif" width="200" vspace="-20">
 </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=l9iirch-hub&icon=4&color=1)](https://visitcount.itsvg.in)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l9iirch-hub/l9iirch-hub/output/pacman-contribution-graph-dark.svg">
